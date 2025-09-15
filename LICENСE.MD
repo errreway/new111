@@ -1,1 +1,0 @@
-LICENСE.MD
